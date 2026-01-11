@@ -45,17 +45,13 @@ body {
   margin: 0;
   background-color: var(--color-grey-500);
   color: #252525;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 
 h1,
 h2,
 h3 {
   font-family: "Homemade Apple", cursive;
-}
-
-p {
-  font-family: "Montserrat Alternates", sans-serif;
 }
 
 a {
